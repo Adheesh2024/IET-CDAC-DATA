@@ -1,0 +1,20 @@
+assignments
+
+Install JDK17 
+set path in enviornment variables 
+
+1) create simple HelloWorld Program and run it 
+
+2) Accept the Command Line Arguments (n numbers)  and display addition of even numbers only 
+
+
+3) Accept the Command Line Arguments (n numbers)  and display prime numbers only 
+
+4)  accept the 1 number with help of scanner class and display addition of digits
+
+5) Accept Student Data From Command Prompt inside main function 
+	Student ID 
+	Student Name 
+	Student Marks for 3 subject 
+
+	and Display all data with Average Marks of Student inside printData() Method

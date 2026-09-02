@@ -1,0 +1,11 @@
+
+Read the Problem Statement 2 times 
+Write Psudo Code then write java code 
+
+
+1) Accept 3 numbers from user and display Minimum from That 
+
+2) Accept 3 number from user and display Maximum number from that 
+
+3) Accept String from user and display nu of vowels present in that String 
+        display count of each vowel 

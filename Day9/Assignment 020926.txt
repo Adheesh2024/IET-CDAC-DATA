@@ -1,0 +1,44 @@
+
+
+
+
+Assignments
+
+1) accept email.id from user and check given data is valid email id format or not 
+
+
+
+
+2) explore the concept of Inner class 
+
+Creat Outer class Account with variables 
+accId , holdername , balance 
+
+Inside that class create Inner class Locker with variables lockerId , duration 
+
+From Test class create an Object of  Account Outer class with parametrised Constructor 
+
+Also Create Object of Inner class with parametrised Constructor 
+
+And display contents of Account and Locker class using InnnerClass method showData ()
+
+
+
+
+3) Explore the Enum concept 
+
+Create enum 
+
+Menu with items COFFE , Tea , Maggi , Pizza , Sandwich 
+
+Create another enum Size with items SMALL , MEDIUM , LARGE
+
+Create an menu driven program 
+
+Display Menu Items 
+
+Accept the Menu after that Accept the Size 
+
+Then accept the Quantity 
+
+At the end display Total Bill with each menu item ,  size ,  quantity , total amount

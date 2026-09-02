@@ -1,0 +1,43 @@
+
+Use Eclipse From Today 
+
+-  In Eclipse set JRE to JDK (Configure Build Path)
+
+Assignments 
+1) Print number 1 to 100 
+if number multiple of 3 then print fizz
+if number multiple of 5 then print buzz
+if number multiple of 3  & 5 then print fizzbuzz
+
+else print number 
+
+2) Use Ellipses Parameter and 
+	1) Display addition of numbers 
+	2) Display addition of Even numbers 
+	3) Display addition of Odd numbers 
+
+3) create Calculator accept 3 command line arguments and display appropriate output using Switch case 
+
+4) Create MyDate class 
+	add default Constructor  , parametrised Constructor 
+	printDate Method
+	
+	add validateDate() method and write a code in that to validate date
+
+	first check year -  if leap year then check month --  then day
+	if date is incorrect then display InvalidDate message 
+	and valid date then ValidDate message 
+
+   write main function inside Test class 
+
+5) Create Student Class with variable 
+	String name 
+	int mks1 , mks2 , mks3 
+	
+
+	declare default and parameterised constrcutor 
+	at the end display average marks with studentDetails 
+
+
+	
+	

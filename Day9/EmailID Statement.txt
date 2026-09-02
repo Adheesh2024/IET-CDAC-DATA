@@ -1,0 +1,23 @@
+
+
+	Write a Program to accept email id from user 
+	and validate format of email id is valid or not 
+
+		abc@gmail.com 
+		abc.123@gmail.com
+		abc.123@.com
+		@ . 
+	// psudo code 1) display message
+
+	                  2) declare var to store input   String 
+		3)  find index of @     indexOf("@")   -1
+		4) indexOf(".")    lastIndexOf(".")
+
+	// java code 
+
+
+
+
+
+
+

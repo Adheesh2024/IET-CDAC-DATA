@@ -1,0 +1,91 @@
+Print number 1 to 100 
+if number multiple of 3 then print fizz
+if number multiple of 5 then print buzz
+if number multiple of 3  & 5 then print fizzbuzz
+
+else print number 
+
+
+
+
+	JOB   Skills    product 
+
+		chatgpt   ai tools  -  think and solve  data 
+
+	Devlopers ---   Application  unique functionality algo
+
+
+	JAVA    Object Oriented Language 
+
+	Object    ---    instance of a class 
+
+	Real World Entity which having well defined structure and behaviour
+
+	Mobile -  screen   keypad  camera 
+	
+
+	Class -    structure  -----  variables
+		 behaviour   --- methods 
+
+	instance of a class   known as Object 
+
+
+////           class <ClassName>
+	{
+		// structure 
+		// variables 		
+
+		// behaviour
+		// methods 
+
+	}
+
+	to use structure  and behaviour   
+
+		Object of Class 
+
+	<ClassName>   identifier ;  ///   Refrence
+
+	identifier  =  new <ClassName>();  // Object 
+
+	class  
+
+	static     <classname>.static method()
+ , 	non static (instance)     object 
+
+--------------------------------
+
+	Bank 		Account    
+
+			Saving  ---  money   - intrest rate 
+			  Current 
+
+		intrest rate -   same 
+
+		1 bank   -   1000 Saving accounts 
+
+		Account   non static   
+			   name 
+			dob  occcu 
+			gender 
+			balance
+			accId  
+			
+
+		static    float   intrest_rate   --- Single Copy 
+
+
+
+	d   day   month  year 
+count   class static 
+
+	d1  day   month  year
+
+
+
+
+
+
+
+
+

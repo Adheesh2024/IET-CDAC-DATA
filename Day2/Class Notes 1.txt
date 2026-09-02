@@ -1,0 +1,124 @@
+Notepad 
+
+.java
+
+	Core Java  
+	Web Application   Adv Java 
+
+	Eclipse    IDE   JAVA EE Support 
+
+	 
+
+	1) Select Workspace (folder name)
+
+	2) choose JAVA Perspective 
+
+	3) Create JAVA Project  (ProjectName - Demo1)
+
+	4) edit build path to JDK instead of JRE 
+
+	right click on Project ->Build Path -> Configure Build Path 
+	-> Libraries ->  Select JRE -> Edit ->  Add -  JDK Path 
+
+
+
+	Java Tokens
+
+	1) KeyWords -  which special meaning in java   54
+
+		for    if  public static 
+
+	2) Identifiers  -  entity which used as variable name  / class name  / method name 
+
+		String name ;  
+
+		int i = 100 ; 
+
+	3) literals    - fixed value defined in program 
+
+		boolean ans = false; 
+
+		final double pi = 3.14;
+
+
+	Declare Variable    <Data Type>  <var Name >
+
+	marks of student      int m1 ; 
+	              float double 
+
+		char    char[ ]      
+
+		boolean 
+
+	Primitive Data Types 8 
+	 String    Array   -  NON primitive
+
+
+	byte   1    8bits   -2 7 
+
+	compile    errors 
+
+Type Casting 
+
+•Widening Casting (automatic / implicit ) - converting a smaller type to a larger type size
+byte -> short -> char -> int -> long -> float -> double
+
+	Casting (manual / explicit ) - converting a larger type to a smaller type size
+double -> float -> long -> int -> char -> short -> byte
+
+Method Overloading
+
+Same Method Name - Signature Differ  
+		no of parameters 
+		seq of para
+		data type of para 
+
+		add(int , float)
+		add(float , int )
+		add(int , int)
+		add(float , float)
+
+
+2 to 5 
+--------------------  add(int , int )
+		add(int , int  , int )
+
+
+
+	java DemoAdd 12 25 236   CommandPrompt 
+
+	JDK 14 Onwards 
+
+	switch -   int   String 
+
+	switch (){		
+		case <value> -> 
+		case <value> ->
+	}
+
+	for(int i : arr)
+	{
+		for 
+	}
+
+	add(int...i)
+
+	Devloper   final   tools   space  time 
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

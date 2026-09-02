@@ -1,0 +1,233 @@
+
+
+	Object   Structure   Behaviour 
+
+	Class        Abstraction Encapsulation 
+
+		Variables   
+		Methods 
+
+	Student       id name mks bdate 
+
+	class Student                                        TestStudent 
+	{
+		// variable 
+		// private 
+
+		// static int count = 0   //  Single Copy 
+
+		// constructors 
+
+		// public setters   and getters   accessor mutator
+
+		// business logic   validate()
+		
+		findMin findMax
+
+		printDate ()
+
+		String  toString(){
+			
+		}
+
+		
+
+		// content of an Object 
+		int i  = 100;  // primitive 
+		s.o.p(i); /// 100
+		MyDate m =  new MyDate(28 , 7 , 2026) // non primitive 
+		s.o.p (m) =====   MyDate@121ad4  // memory location 
+			28/7/2026
+
+		s.o.p (m) ===== // s.o.p(m.toString())  //console 
+
+
+
+	}
+
+
+	// variable 
+
+		instance variable   
+
+		static variables 
+
+		local variables 
+
+	class MyDate{
+
+		int day , month , year ;    // instance 
+
+
+		public MyDate(int d , int month  , int year)   // local 	
+		{
+			day = d;
+			this.month = month;
+			instance var = local variable 
+			// this current  instance 
+
+		}
+
+	}
+
+/////		Core Java  ----- Basic Syntax 
+
+
+		Array   -   Collection of Similar Datatype elements 
+
+		int arr = new int[8] ; ///   Primititve 
+
+
+		Non Primitive 
+
+		Student sarr [ ] ;   //  sarr 
+	
+		sarr = new Student[5] ;  // array of ref
+
+		sarr[0] = new Student(); 
+
+
+	1 D Array 
+
+	2 D Array  --- 
+
+	int m[ ] [ ] = new int[rows] [cols];
+	
+	int m[ ] [ ] = new int[3] [3];  ---- metrics 
+
+	int m[ ] [ ] = new int[3] [ ];
+
+	m.length  ///  nu of rows 
+
+	s.o.p (m [0][0])
+
+	s.o.p(m[1][0])
+
+		for(int rows = 0 )
+		{
+
+			for (int cols = 0 ){
+
+
+	int m[ ] [ ] = new int[3] [3]; 
+	row wise sum 
+
+		int no = m.length ; // no of rows 
+		int rowsum[ ] = new int[no];
+
+		for (int i= 0 )  / rows   1
+		{  int sum = 0 ;
+			for(int j=0 )
+			{
+				sum += m[i][j]
+			}/// cols 
+
+			rowsum[i] = sum;
+
+		}
+
+	colswise sum 
+
+
+	int no = m.length ; // no of rows 
+
+
+	cols 
+
+	int sum[] = m[0].length ;
+
+
+
+
+	accept String from user using scanner class 
+	and reverse that string 
+
+	Hello 
+
+	olleH
+		String    ---  char array 
+
+		String  s = "Hello";
+
+		s.o.p(s.length)  /// 5
+
+		// convert String to char Array 
+
+		char c[ ] = s.toCharArray();
+
+		for(int i = c.length-1 ;  i >=0 ; i--)
+		s.o.p(c[i])
+
+
+-------------------------
+
+		MyDate.java ------- source code 
+
+	        javac MyDate.java   
+
+			MyDate.class   bytecode 
+
+	  java MyDate    main function    
+
+		JDK        JRE  
+		load inside memory   --- JVM    native 
+
+	java Test2DArray    . class
+
+		Scanner   <JAVA_HOME>/bin   lib 
+		extra lib 
+		Array2DService  .class 
+
+
+	Bytecode Verifyer 
+
+
+	JVM  Allocate Memory 
+
+
+	Constructor     allocation memory  -  init
+
+	Destructor--  de allocate memory 
+
+
+	Garbage Collector   -   heap 
+
+	search objects which are unrefrance 
+
+	System.gc();// call 
+
+
+	finalize()  ///  just before data collected as garbage 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

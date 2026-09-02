@@ -1,0 +1,157 @@
+
+
+	class       variable    methods 
+
+	Memoery Mgmt --- JVM 
+
+
+		Method    stack   heap 
+
+
+			non Primitive     Object 
+
+
+		main()
+		{
+			MyDate d;   // local   stack   Ref 
+
+			d = new MyDate() //  Object 
+
+		}
+
+		GC     JVM 
+
+		Accepting data
+		Business Logic 
+
+	java 		Database 
+
+		Connection with Database 
+
+		execute query 
+
+		Connection Close    GC   JVM 
+
+		finalize 
+
+		System.gc();  // call 
+
+		Student i [] ;
+
+		i = new Student [100];   40
+
+		i = null
+
+	1 D
+
+	2 D    rows  cols 
+
+	int arr1 = new int[3][3]
+
+	int arr2 = new int[3][3]
+
+	addition of arr1 +  arr2 
+
+
+	int sum = new int[3][3]
+
+	for(int i  = 0 i<arr1.length
+		
+		for(int j   ; 
+
+		sum[i][j] = arr1[i][j] + arr2[i][j];
+
+
+
+		MyDate     day month year 
+
+			validateDate 
+
+			leap year   year 
+
+			month 2   ///  days 
+
+			30  31     33   13 
+
+	Java Lib       JDK  lib   .class    bytecode 
+
+
+		JAVA Docs   classes   10 constr   method 
+
+	functionality   -   classes , interface 
+
+	Student.java        StudetnService.java     Test.java
+
+	lib -- jdbc   sql 
+
+	-- file api   io 
+
+	package  --  folder 
+
+	sub packages 
+
+
+	package  com;
+
+	class A {
+
+
+	}
+
+	java.util.Date
+
+	java.sql.Date 
+
+default     outside class   within same package   // diff package not accessible 
+	
+	private    outside class as well outside package
+
+	public 
+
+	Encapsulation 
+
+		Concepts 
+	Java Syntax 
+
+	Logical think   c c++
+
+	HackerEarth  LeetCode   testcases 
+
+
+
+	Simple Java Class 
+
+	Student    String 
+
+	TestArray 
+
+	Dev - Solution 
+
+	Devlopment      + mgmt   ------- Reuse classes 
+
+	Support    -  enhance ment  /  runtime
+
+	MyDate     Date 
+
+
+	Student 
+		int id  , m1
+		String name 
+		java.util.Date    bod 
+
+
+	CPU     - ram drive 
+
+
+	
+
+
+
+
+
+
+
+
+
+
+

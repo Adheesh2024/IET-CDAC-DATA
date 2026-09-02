@@ -1,0 +1,209 @@
+
+
+	abstract class A{
+
+	}
+
+
+			abstract   class 
+
+
+	Declaration of Method       interface 
+
+		contractual relationship 
+
+
+	SE im   printable 
+	print()
+
+
+-------------------    final       variable   primitive    Ref 
+
+	final MyDate d =  new MyDate(1,1,1);
+		 d =  new MyDate(11,1,1);
+
+		d.setDay(11);
+
+	method    final 
+
+	final class A{   } 
+
+----------------------------------------------
+
+	class A {
+		private void display(){ 
+		s.o.p("Display A")  } 
+
+		public final void show(){ 
+		s.o.p("Display A")  } 
+	}
+
+	class B extends A {
+	
+		private void display(){ 
+		s.o.p("Display B")  } 
+	}
+
+
+--------------------------------------------------------
+			6   semi
+
+		9  ---  8 pm   2 modules 
+
+	Data Stru   
+	Dot net 
+---------------------------
+
+	String    Math   Date  util   SimpleDate 
+
+
+-----------------------------------------
+
+	Bank    ---  Account 
+
+		Locker
+
+	Inner Class --- 
+
+	1) Simple Inner class --  class inside class 
+		Outer o = new Outer();
+		Outer.Inner oi = o.new Inner();
+	2) Method local Inner Class  ---- class inside Method 
+
+		Logic     // Security   variables  overriden 
+//   
+///       withdrawDraft () { class Approval }      Bank     Clerk  prepare   printout   //  Bank Manager 
+
+	3)  static Inner Class
+
+	4)  Ano  Inner class -- class without name 
+
+		new Demo() {   
+
+			int a ; 
+
+			public void display() {  } 
+
+		}
+		
+		() {    
+
+		}
+
+
+
+
+
+	class Account {
+
+		int i  ; 
+
+		public void show(){   } 
+
+		class Locker{
+		
+			int a ; 
+
+			public void display(){  } 
+
+		}
+
+
+	}
+
+
+	Encapsulation  --- 
+
+	class Account {  
+
+		Locker l ;   // has-a   tight coupled
+
+		public Account() 
+
+		public Account(Locker l )
+	} 
+
+	class Locker {   } 
+
+
+	My.java     javac My.java           My.class
+
+	class My {
+
+
+	}
+
+	class Outer 
+
+		{
+
+		class Inner 
+
+-----------------------------------------------------------------
+
+	final   // Constants 
+
+	class Test {		
+		public  static final int i1 = 100;  // set of constants
+		public  static final int i2 = 200;
+		public  static final int i3 = 300;
+		public  static final int i4 = 400;
+
+	}
+
+---------------------------------  collection of constant variables   10
+
+	ENUM  ---  collection of constant variables
+
+
+--------------------------------------
+
+	Billing machine --- 50
+	Cafe    50 
+
+	enum Menu {  tea , coffee ,   }   0 
+
+		12   --- Bill 
+	0 - 9    Coffee    40
+-----------------------------------
+
+	is-a    inheritance   
+
+	Parent   ---  Child --- CLass 
+-------------------------------
+	class MyDate   extends Person 
+----------------------------------------------
+---	Person           has-a 
+	MyDate bDate;// instance
+----------------------------------------
+java  11 /  17
+Restrict Inheritance      sealed classes 
+
+		sealed       permits
+
+		non-sealed
+
+---------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,30 @@
+1) Create number array -  length need to accept from user 
+accept data for array , Display Data of an array 
+
+then write a Menu Deriven Program to perform Opertations on Array 
+
+    1 findMax
+    2 findMin
+    3 search a number
+    4 find the occurance of a number 
+    5 display addition of array elements 
+    6 display sqaure of even numbers from an array 
+
+
+2) Use Student class created in Previous LAB
+	add studentId  variable in that class 
+     make variables are private 
+     then add accessor and mutator methods 
+      add toString method
+      generate studentId Programatically 
+
+3) Use Student Class created in Previous assignment 
+    create Student array of 5 elements 
+     accept the data for 5 Students
+     display the data 
+	
+	search the Student byName 
+
+
+      
+

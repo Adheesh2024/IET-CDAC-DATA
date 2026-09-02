@@ -1,0 +1,174 @@
+
+
+
+
+		Job    Skills     
+
+
+		HTML  CSS   JS       SQL   PL/SQL 
+
+
+		     Programming Languages -  Business Logic 
+
+
+		c    -     Procedural Language 
+
+  		 c++  -- Object Oriented Language    class 
+
+
+		JAVA    -      C#      -    PYTHON 
+
+
+	Secure   ----- ByteCode    -  
+
+			 Programming Languages -  
+
+			Concept   + Syntax 
+
+
+	Lanugauge      -   Syntax 
+
+	Program     -     Code    Java 
+
+	Input   	Application     Output 
+
+
+	hold the data --    variable     <data_type>   <var_name>
+
+				int   num ;
+
+	business logic variable ---  
+
+		Operators -   Arithemetic   Logical    Bitwise 
+			Assignment 
+
+
+	String 	"Hello"  + "World"
+
+	Business Logic  -   mulitple line code  
+
+
+	block  -    function  / Method 
+
+			<return_type>   <method_name> ( )
+			{
+
+			}
+
+
+		Object      blue print of class 
+
+
+	Control Statements     if else 
+
+
+			switch 
+
+	Loops        do    while 
+		while      for 
+
+	WORA     Write Once Run Anywhere    ByteCode 
+
+	java   c++  Constructor   Destructor  /  c    syantax 
+	Object Oriented  --- 4 pillares  
+
+	  Abstraction   
+	Encapsulation 
+				Inheritance  Polymorphism 
+
+	var x;    javascript  runtime 
+
+	int   i ;   robust 
+
+	Windows ---  Deploy   Production Env    live to the end user 
+		32   64 
+		unix   linux    Bytecode 
+
+	Enviornment   Prepare    -------   
+
+	Devlopment  ------ JDK  ---   JRE     ---- JVM
+
+		17    21 
+
+	Execute  ---    JRE     ---- JVM
+
+
+	HTML     -   .html  -- Browser Interpreted 
+
+	Java   Compile   Interpreted 
+
+	<Filename>.java    java source code  -- 
+
+	Compile        javac   <Filename>.java 
+
+	ByteCode      ---      .class 
+
+	Run the Java Application           java <ClassName> 
+
+	ByteCode      ---   Interpreted  JVM  
+
+		Convert to the  Operating System  language 
+
+
+	MutliTasking     -   OS 
+
+
+		Input 	Java Program    Ouput 
+
+	1)   Command Line Args ----    java  <ClassName>  10 20 36 48 59
+
+		Integer.parseInt()
+		Float.parseFloat() 
+
+		Commands 
+
+	2) input   keyboard
+
+		 java  <ClassName>
+
+		Enter a number   15 
+
+
+	System.out.println   ---  Command Prompt 
+
+	give input 
+
+	class  Scanner   -   //  scan the data 
+
+	
+	Scanner sc =  new Scanner(System.in)  //command prompt   keyboard 
+
+	// int   float   char  String 
+	
+	System.out.print ("Enter a Number : " );
+	
+	int data = sc.nextInt();
+
+
+	Java   ---   .java      java.lang package    System 
+
+
+	package -----    Scanner     java.util.Scanner 
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

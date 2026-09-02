@@ -1,0 +1,195 @@
+
+
+
+	Java 5 Days    Basics 
+			Syntax 
+
+			OOP    Object      Class  
+
+
+		Variables                                      Methods 
+
+		instance static local                 Polymorphism 
+
+					static    Overload 
+					Dynamic Override   is-a 
+		==   primitive 
+
+
+		Object      Structure    variable  
+		equals ()
+	Student 
+		public   boolean equals(Object o)
+		{
+			// run time type of o    RTTI 
+			if( o  instanceof Student)
+			Student temp = (Student) o ; 
+			if(this.name.equals(temp.name)
+		}
+
+	Student s1 = 
+	Student s2 = 
+	MyDate d = 
+
+	if(s1.equals(s2))
+
+	if(s1.equals(d))    // Compile 
+
+
+	public void add (int , int)  // 2
+	public void add (float, int)
+	public void add (int , float)
+	public void add (float , float)
+
+	public void add (int , int)  
+	public int  add (int , int) //  compiler 
+
+
+	Method Override    is-a 
+
+Employee 
+	public Employee getObject ()
+	{
+		return new Employee();
+	}
+SalariedEmployee extends Employee 
+	// covariance return type  java 5 
+	// in override return type can change in a hireachy 
+	public SalariedEmployee getObject ()
+	{
+		return new SalariedEmployee ();
+	}
+----------------------------
+	main 
+	SalariedEmployee  se  =  new SalariedEmployee (); 
+	Employee e =   new SalariedEmployee (); 
+
+	// SalariedEmployee   s =  new Employee (); 
+
+	SalariedEmployee  se1 = se.getObject();   // compile time error 
+
+	-------
+
+	2 numbers from user 
+
+	and swap the numbers 
+
+		demo			1001
+
+		d  
+
+
+		stack 			heap 
+	int i = 100 , j= 100;
+
+	s.o.p(i+j)
+
+	Object  o1 = 100;   int   // Datatype MISMATCH 
+
+	String s =  new String("100");
+
+	Object o1 = s ; 
+
+	int  a = Integer.parseInt(o1);  // int 
+
+
+-----------  Object        Non Primitive 
+
+	int float   Primitive 
+
+		Type Casting 
+
+-----
+
+Wrapper Classes --- 8 
+		1) Primitive type data ---> Object 
+
+		main (String a[])    //   10 20 30 
+
+		2) String -----> int Primitive 
+
+		int i = Integer.parseInt(a[0]);
+
+		3) String ---- > Wrapper Class Object 
+			String s = "145";
+
+			Integer i1 =  new Integer(s);
+		
+			
+		4)   int  to Integer 
+			int a = 100;
+
+			Integer i2 = Integer.valueOf(a);
+		
+			// Boxing  before java 5 
+			Integer a2 = new Integer(a);
+
+			Integer a3  = a;
+
+
+
+
+
+
+	int  ------------ Integer    
+	Float
+	Double
+	Long 
+
+	int i1 = 125;
+
+	Object 
+	Integer i2 = new Integer(123);
+
+
+
+----------------------
+
+	String  -------   character Array 
+
+	String s = new String("Hello");
+
+	String s1  = "Hello";
+
+	s.o.p(s == s1); //  false 
+
+	s.o.p(s.equals(s1)); // true 
+
+	Heap   GC // JVM 
+	String s = "Hello :" + username    200    InSuffieicent 
+
+
+	String   immutable 
+
+	StringBuffer    muttable   Thread Safe   performance down 
+
+		user1.append()
+
+		user2 
+
+	StringBuilder   muttable  , no  thread safe 
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+

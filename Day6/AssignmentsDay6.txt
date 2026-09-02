@@ -1,0 +1,11 @@
+Create 
+
+Person  , Employee , Salaried and ContractEmployee 
+as shown in class  they are in is-a releationship 
+
+and understand concept  of 
+
+Super - for constructor 
+Method Override 
+TypeCasting of Non Primitive Datatype 
+equals method (Override in every class)

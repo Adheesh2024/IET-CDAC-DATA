@@ -1,0 +1,48 @@
+
+
+Assignment 
+
+1) add 
+getObject( Object O) 
+method inside Employee and Salaried Employee class and call that from main function to understand covariance return type 
+
+2) Refer Java Docs and explore Different methods of String class 
+
+Also understand String immutable , String pool in Java 
+
+Explore StringBuffer , StringBuilder 
+
+3) Create Employee POJo class with variables
+
+String empId , firstName , lastName 
+
+
+
+Write 2 parametrised Constructor which accept firstName , lastName 
+
+Write generateCode() in Employee class and generate Employee Id 
+
+First 2 letters from firstName 
+, last 2 letters from lastName and number ( counter) 
+
+
+From Main function create Employee Object and Display Employee Details 
+
+4) 
+Accept 2 numbers from user as a command line (String type) 
+
+Convert String type data in Integer type and Display addition 
+
+Convert String type data in int Type and Display multiplication 
+
+5) Accept String from user and Display number of vowels present in that String 
+
+Also display count of each vowel 
+
+E.g. My name is Dilip 
+
+Vowel count 5 
+
+a - 1
+e - 1
+i - 3

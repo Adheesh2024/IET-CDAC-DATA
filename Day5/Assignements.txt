@@ -1,0 +1,18 @@
+1) check the System.gc() working 
+
+2) create two 2d Array and perform addition of that array
+
+3) use Date and SimpleDateFormat class 
+  and convert date in properfomat
+ -- explore the javadocs 
+
+https://docs.oracle.com/en/java/javase/21/docs/api/index.html
+
+4) use previously created Student class 
+   add 1 variable inside that class Date birthDate 
+   
+  while creating Student class object accept data from user and store inside Date format variable 
+
+5) use already created Student class and TestStudent class 
+   keep both classes inside different package and access that
+

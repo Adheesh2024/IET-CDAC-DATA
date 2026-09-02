@@ -1,0 +1,178 @@
+
+
+
+	Reuse of code   -- code compact 
+
+
+	Multiple 
+
+	Address  
+
+	Date 
+
+	Student 
+
+		java.util.Date birthDate 
+
+		Address  pAdd  , tAdd
+
+
+	Company 1               M Deparments                M Employee 
+
+
+	Association   Class  ---  Build RelationShip 
+
+	1  -  1     1-m    m-1   m-m 
+----------------------------------------------------------------
+
+	HAS-A   Composition   tight coupling 
+
+		Company 1               M Deparments
+
+-------------------------------------------------------
+
+	Agreegation    loosely coupled   (ref)
+
+	Machine  --------------  Printer   print a document    ref 
+
+	print - button 
+
+
+-----  Constructor Chain
+
+	this()  // default 
+	this(1 , 2, "asd") // parameterised same class 
+
+-------------
+
+
+	class   abstarction     
+		encapsulation 
+		
+			access specifiers    default 
+
+			private     
+
+			public 
+
+			protected  --- inheritance 
+
+-----------------------------
+
+	Maint     - Reuse  
+	Develop Application 
+
+	Real World Entity   Object      Class 
+
+	Person  --- name    gender    bdate   age  
+		occupation    address   mob   height   weight 
+
+
+	Employee ---  name    gender    bdate   age  
+		occupation    address   mob    education   salary 
+
+
+	SalariedEmployee              ContractEmp    hrs  rate
+
+     Manager        SalesPerson 
+
+incentive            target    incentive 
+
+
+	Patient    name    gender    bdate   age    
+		address   mob   height   weight   history 
+
+
+	Relation Ship 
+
+
+	Calculator      Simple  --- 50 line 
+
+		ScienticCalc  ---- modify funcationlity 
+
+
+	Reuse  + modify 
+
+	Inheritance  ---   is-a
+
+	Single Inheritance 
+
+		Person 
+
+		Employee
+
+	Sal                                    Contract 
+
+Manager        
+
+	Java Not Supported 
+
+	Mulptiple   Inheritance (  of classes ) 
+
+	  2 superclass and 1 subclass 
+
+	Super   ---  General Variables    
+
+	Sub -- Specific Variable 
+	Polymorphism   
+
+
+
+
+SAME CLASS --  Static --   Comiple Time   ----- Method Overload 
+
+	same method name but different Signature 
+
+
+
+Different class with (is-a) -- Dynamic   --  RunTime   --- Method Override 
+
+	same method signature but different in implementation 
+
+
+
+
+
+	Class Calculator /// 
+	{
+
+	}
+
+
+	// is - a 
+	// child   ----------------- parent 
+	// subclass ---------  superclass 
+	Class ScientifCalc     extends  Calculator   
+	{
+
+	}
+
+		Super Parent 
+		Person  p  ; // ref 
+
+		p = new Person();   // Person 
+
+		p  =  new Employee();  // Employee 
+
+
+	every class has super  class Object
+
+	toString()  //   Object   String 
+	finalize()    // garbage C 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

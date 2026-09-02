@@ -1,0 +1,29 @@
+1) Accept String Data from user and display in Reverse order
+
+
+ 
+
+2) Use Student Class created in Previous LAB
+    create Student array of 5 elements 
+     accept the data for 5 Students
+     display the data 
+	
+	add menu driven program 
+		1) find byID
+		2) find byName
+		3) delete byID
+
+3) Create 2D array with [3][3]
+	write a menu driven program 
+	1) accept data
+	2) display data
+	3) rowwise sum
+	4) columnwise sum 
+	5) displayMax
+	6)displayMin
+	7)display rowwise max
+	8)display columwise max
+
+
+      
+

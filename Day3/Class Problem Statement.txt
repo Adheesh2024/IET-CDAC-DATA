@@ -1,0 +1,33 @@
+
+	accept number from user using scanner class 
+
+	and display number is neon or not 
+
+	neon number -
+	number 9 
+ 	9*9 = 81  - > (8+1 = 9)
+
+
+	Steps 
+
+		int num  =  sc.nextInt()   9 
+
+		int square = num * num    81 
+
+		digits sum    81     num 
+
+		num  = digistsum 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		

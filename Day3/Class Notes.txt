@@ -1,0 +1,87 @@
+
+
+
+	Real World Entity         Object  ---   Class variables     methods 
+
+
+	Class    MyDate                   Student 
+
+	variables     day m y     Abstraction 
+			   Encapsulation 
+
+
+	Default 
+	private 
+
+
+
+		POJO Class 
+	Plain Old Java Objects 
+
+	create Student POJO Class 
+	class 		
+		private  variables
+		accessor and mutators methods
+		constructors    default 
+		methods 
+		toString()  // Object in String Format 
+
+		this 
+		sta  var block 
+		
+	MyDate    d =  new MyDate();
+		int i ;  
+	Array -    	<data type> <varname>[ ] ; 
+		int arr[ ] ;  //  declaration 
+		
+		arr = new int[50];  //  new int [Length]    
+
+		access array elements   -  index 
+
+		array index start with zero 
+
+		arr[0];        arr[3] ; 
+
+	continue  memory 
+
+	Array Operations   1D
+	2D Array 
+	Memory Mgmt -    Java  
+	Inhritance 
+	Package 
+
+
+	java  --  source code  --  compile 
+
+
+	Student class 
+
+		accept data 
+		Student  s =  new Student();// Object Student 
+
+		// Array -   length 
+		Student  sarr[ ] ;
+		 sarr =  new Student[5]; array of Student Ref 
+
+		sarr[0] =  new Student(); 
+		sarr[1] =  new Student(); 
+
+	s.o.p(sarr[0])
+
+
+
+
+	array Student Objects 
+
+		display 
+
+
+
+
+
+
+
+
+
+
+
